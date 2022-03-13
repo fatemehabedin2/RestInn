@@ -1,0 +1,113 @@
+{
+    "propertyTypes":             
+    [
+      { "id": 1, 
+        "title": "Resort",
+        "img": "https://www.beaches.com/blog/content/images/2021/03/Beaches-Turks-Caicos-Overview.jpg"
+      },
+      { "id": 2, 
+        "title": "Hotel",
+        "img": "https://www.planetware.com/wpimages/2021/07/maldives-best-all-inclusive-resorts-hurawalhi-island-resort-villa.jpg"
+      },
+      { "id": 3, 
+        "title": "Apartment",
+        "img": "https://torontocondoteam.ca/assets/uploads/pageuploads/rsz_180_university.jpg"
+      },
+      { "id": 4, 
+        "title": "Motel",
+        "img": "https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/couples-resorts/media/cr-cn-header-mobile-1-5f22c8d77d6e7.jpg"
+      }
+    ],
+    "properties":             
+    [
+      { "id": 1, 
+        "title": "Atlas",
+        "description":"goooooooooooooood",
+        "price": 70,
+        "type":"Apartment",
+        "location":"Tehran",
+        "rules":"check-in after 3pm, checkout before 11am",
+        "amenities":"Park, Museum, Public Transit",
+        "isBestseller":false,
+        "img": "https://www.beaches.com/blog/content/images/2021/03/Beaches-Turks-Caicos-Overview.jpg"
+      },
+      { "id": 2, 
+        "title":"Ghasr Hotel",
+        "description":"gooooood",
+        "price": 80,
+        "type":"Hotel",
+        "location":"Mashhad",
+        "rules":"check-in after 3pm, checkout before 11am",
+        "amenities":"Park, Museum,Restaurant, Public Transit",
+        "isBestseller":true,
+        "img": "https://m.fourseasons.com/alt/img-opt/~70.1530.0,0000-252,2500-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/TFY/TFY_349_original.jpg"
+      },
+      { "id": 3, 
+        "title": "Red Lion",
+        "description":"goooooooood",
+        "price": 90,
+        "type":"Resort",
+        "location":"Orlando",
+        "rules":"check-in after 3pm, checkout before 11am",
+        "amenities":"Museum, Restaurant, Public Transit",
+        "isBestseller":false,
+        "img": "https://cache.marriott.com/Images/Travel_Hub/2880X960_RESORTS_Infinity-Pool-View.jpg?interpolation=progressive-bilinear"
+      },
+      { "id": 4, 
+        "title": "My Vacation",
+        "description":"gooood",
+        "price": 100,
+        "type":"Motel",
+        "location":"Toronto",
+        "rules":"check-in after 3pm, checkout before 11am",
+        "amenities":"Cafe, Museum, Restaurant, Public Transit",
+        "isBestseller":false,
+        "img": "https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/couples-resorts/media/cr-cn-header-mobile-1-5f22c8d77d6e7.jpg"
+      },
+      { "id": 5, 
+        "title": "Shiraz Motel",
+        "description":"goooood",
+        "price": 100,
+        "type":"Motel",
+        "location":"Shiraz",
+        "rules":"check-in after 3pm, checkout before 11am",
+        "amenities":"Cafe, Museum, Restaurant, Public Transit, Park",
+        "isBestseller":true,
+        "img": "https://travital.com/assets/uploads/2019/12/hotel-bozorg-768x480-1.jpg"
+      },
+      { "id": 6, 
+        "title": "Darvishi Hotel",
+        "description":"gooooooooooooooooooooooood",
+        "price": 120,
+        "type":"Hotel",
+        "location":"Mashhad",
+        "rules":"check-in after 3pm, checkout before 11am",
+        "amenities":"Cafe, Museum, Restaurant, Public Transit, Library",
+        "isBestseller":true,
+        "img": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg"
+      },
+      { "id": 7, 
+        "title": "Dariush Hotel",
+        "description":"goooooooooood",
+        "price": 150,
+        "type":"Resort",
+        "location":"Kish",
+        "rules":"check-in after 3pm, checkout before 11am",
+        "amenities":"Cafe, Museum, Restaurant, Public Transit, Library, Beach",
+        "isBestseller":true,
+        "img": "https://media.mehrnews.com/d/2017/07/10/4/2510690.jpg"
+      },
+      { "id": 8, 
+        "title": "Abbasi Hotel",
+        "description":"gooooooooooooooood",
+        "price": 170,
+        "type":"Apartment",
+        "location":"Isfahan",
+        "rules":"check-in after 3pm, checkout before 11am",
+        "amenities":"Cafe, Museum, Restaurant, Public Transit, Library, Park",
+        "isBestseller":false,
+        "img": "https://iran.1stquest.com/storage/images/hotel/static/0UeLNhma3435Uw55zQV8clNNQWBYSylNidwxMG5w.jpeg"
+      }
+    ]
+    
+  }
