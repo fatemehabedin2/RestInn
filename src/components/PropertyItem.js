@@ -17,6 +17,9 @@ const PropertyItem = ({id,title,price,type,location,isBestseller,img}) => {
       <div className="col-4 p-5 ">
         <p><span class="fw-bold">price: </span>{`CAD ${price} per night`}</p>
         <p><span class="fw-bold">{isBestseller === true ? "Bestseller" : ""}</span></p>
+        <Link to={`/propertylisting/${id}`}>
+          <a class="btn btn-success" href="/orders" role="button">Detail</a>
+        </Link>
       </div>
     </div>
    
