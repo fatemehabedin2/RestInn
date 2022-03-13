@@ -52,6 +52,9 @@ const PropertyDescriptionPage = () => {
               <p><span class="fw-bold">price: </span>{`CAD ${property.price} per night`}</p>
               <p><span class="fw-bold">{property.isBestseller === true ? "Bestseller" : ""}</span></p>
               <p><span class="fw-bold">Amenities: </span>{property.amenities}</p>
+                <div class="mb-4 text-center p-5 ">
+                <button type="submit" class="btn btn-success">Book Now</button>
+                </div>
             </div>
           </div>
         </main>
